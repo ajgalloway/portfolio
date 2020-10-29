@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "769c755ee03f326bb63b64d571cd595f",
+    "revision": "32ab85a528046ea325e15a0da7ac2e7b",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "e1d1572944df99485a28",
+    "revision": "9144d2f16bfa3d13f111",
     "url": "/portfolio/static/css/main.d0e81b23.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.eb491344.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1d1572944df99485a28",
-    "url": "/portfolio/static/js/main.2163ed61.chunk.js"
+    "revision": "9144d2f16bfa3d13f111",
+    "url": "/portfolio/static/js/main.e2a864a3.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "de3a399a85fdf8e2f794866dfdb3d336",
     "url": "/portfolio/static/media/ag_logo_white.de3a399a.png"
+  },
+  {
+    "revision": "39dc55ae8f5a248d3224cc8eb9bf0a17",
+    "url": "/portfolio/static/media/andrew_galloway_resume.39dc55ae.pdf"
   },
   {
     "revision": "7efb722b8e3baf41f94a566c43431e6b",
@@ -62,9 +66,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "32ce7ac9ac8ccdcc0c0a444d419d9725",
     "url": "/portfolio/static/media/professional_website.32ce7ac9.png"
-  },
-  {
-    "revision": "0068e4da1bd82b7f91922b372ddcb12e",
-    "url": "/portfolio/static/media/resume.0068e4da.pdf"
   }
 ]);

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d0e81b23.chunk.css",
-    "main.js": "/portfolio/static/js/main.2163ed61.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2163ed61.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e2a864a3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e2a864a3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.11829350.chunk.css": "/portfolio/static/css/2.11829350.chunk.css",
     "static/js/2.eb491344.chunk.js": "/portfolio/static/js/2.eb491344.chunk.js",
     "static/js/2.eb491344.chunk.js.map": "/portfolio/static/js/2.eb491344.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.cda3ee700c363ddf314432eb71dc622e.js": "/portfolio/precache-manifest.cda3ee700c363ddf314432eb71dc622e.js",
+    "precache-manifest.111e01e3e1630fd78a2916e853c0df32.js": "/portfolio/precache-manifest.111e01e3e1630fd78a2916e853c0df32.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.d0e81b23.chunk.css.map": "/portfolio/static/css/main.d0e81b23.chunk.css.map",
@@ -17,19 +17,19 @@
     "static/media/360fuel.png": "/portfolio/static/media/360fuel.a255aaef.png",
     "static/media/ag_logo_black.png": "/portfolio/static/media/ag_logo_black.cebcdb3a.png",
     "static/media/ag_logo_white.png": "/portfolio/static/media/ag_logo_white.de3a399a.png",
+    "static/media/andrew_galloway_resume.pdf": "/portfolio/static/media/andrew_galloway_resume.39dc55ae.pdf",
     "static/media/free_speech_messenger.jpg": "/portfolio/static/media/free_speech_messenger.7efb722b.jpg",
     "static/media/gophr.png": "/portfolio/static/media/gophr.3e90170f.png",
     "static/media/headshot.png": "/portfolio/static/media/headshot.05fca361.png",
     "static/media/in_store_kiosk.png": "/portfolio/static/media/in_store_kiosk.a38e2fab.png",
     "static/media/mcneese.png": "/portfolio/static/media/mcneese.407ac8ec.png",
-    "static/media/professional_website.png": "/portfolio/static/media/professional_website.32ce7ac9.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.0068e4da.pdf"
+    "static/media/professional_website.png": "/portfolio/static/media/professional_website.32ce7ac9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.eb491344.chunk.js",
     "static/css/main.d0e81b23.chunk.css",
-    "static/js/main.2163ed61.chunk.js"
+    "static/js/main.e2a864a3.chunk.js"
   ]
 }
