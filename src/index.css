@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("./media/carbon-fibre-v2.png"),linear-gradient(#150485, #000050) !important;
 }
 
 code {

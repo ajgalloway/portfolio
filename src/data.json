@@ -1,0 +1,220 @@
+{
+  "resume": {
+    "about_me": {
+      "title": "About Me",
+      "text": "I am a full-stack software engineer, with several years of experience developing software systems. My most recent work has been in the eCommerce and logistics industry. I have had the opportunity to participate in multiple cross-functional teams. Aside from being a team player, I have had the chance to lead product teams as a developer and function as a project manager, utilizing agile methodologies. I enjoy continuous learning in may forms from building upon academic foundations and expanding my professional portfolio to attaining new personal skills. I am always interested in adapting to and learning from a new challenge."
+    },
+    "experience": {
+      "title": "Experience",
+      "jobs": [
+        {
+          "logo": "gophr.png",
+          "company": "Gophr App Inc.",
+          "roles": [
+            {
+              "position": "Software Engineer",
+              "location": "Lake Charles, LA",
+              "duration": "May 2019 - Present",
+              "description": "Working within a cross-functioning team tasked with developing a local eCommerce marketplace whose delivery is facilitated by an in-house logistics platform. I develop and maintain a few fully functional Node.js applications and have had the ability to empower stakeholder decision making by maintaining BI tools, reduce project overhead by implementing cloud infrastructure on AWS, and improve long-term system scalability by utilizing a microservice architecture. Our team has launched multiple services to market from an on-demand “Direct” delivery service, for partners, to publishing consumer application(s). Recently, I have been given the opportunity to step into a dual role as software developer and product manager, where I led multiple project teams and utilize agile methodologies to release features requested from various stakeholders."
+            }
+          ],
+          "technologies": [
+            "AWS", "Java", "Android", "Nodejs", "Express"
+          ]
+        },
+        {
+          "logo": "cgi.png",
+          "company": "CGI Federal",
+          "roles": [
+            {
+              "position": "DevOps Engineering Intern",
+              "duration": "Jun. 2019 - Aug. 2019",
+              "location": "Lafayette, LA",
+              "description": "Participated in the utilization of the SCRUM framework and related ceremonies, alongside a team of multi-disciplinary peers, and professionals at varying levels in their career. I deployed, maintained, and documented an internal retrospective tool, carried out a virtual environment migration, and a variety of related tasks. We reduced the disaster recovery time, of multiple systems, by testing and improving project documentation and processes. Utilized Atlassian tools for documentation, version control, and tracking work."
+            }
+          ],
+          "technologies": [
+            "Java", "Python", "MySQL", "Angularjs"
+          ]
+        },
+        {
+          "logo": "mcneese.png",
+          "company": "McNeese State University",
+          "roles": [
+            {
+              "position": "Undergraduate Teaching Assistant",
+              "location": "Lake Charles, LA",
+              "duration": "Feb. 2018 - Dec. 2019",
+              "description": "Worked alongside multiple professors on a variety of computer science (CS) related courses. I critiqued and graded programming project, papers, and exams. I assisted with and lectured in CS classes, labs, and on programming projects. I communicated CS concepts to individuals with limited CS knowledge."
+            },
+            {
+              "position": "Student Researcher",
+              "location": "Lake Charles, LA",
+              "duration": "Sep. 2017 - May 2019",
+              "description": "Worked with a multi-discipline team of engineering students on a NASA sponsored Louisiana Aerospace Catalysts Experiences for Students (LaACES) project. As a team we implemented a previously attempted project, from primary documentation, and delivered the project consistently ahead of schedule and withing constraints, while making improvements. My primary responsibility was that of the payload software and hardware, utilizing a Raspberry Pi and attached components to capture and transmit images through the payload’s flight. The largest improvement being the addition of a GPS tracking system that resulted in changes across our payload and ground station. We had the privilege to launch our payload from the Columbia Scientific Ballooning Facility (CSBF) in Palestine, TX, in May 2018 and in May 2019."
+            }
+          ],
+          "technologies": [
+            "C", "Java", "Python", "Swift", "Android", "PostgreSQL"
+          ]
+        },
+        {
+          "logo": "360fuel.png",
+          "company": "360Fuel",
+          "roles": [
+            {
+              "position": "Full Stack Software Engineer",
+              "location": "Lake Charles, LA",
+              "duration": "Oct. 2017 - Mar. 2019",
+              "description": "Operated in an AGILE environment consisting of multiple development teams. Coordinated with project teams to launch the company’s first products. While working here the team I worked with successfully produced multiple Android applications, including publishing the 360Fuel consumer application on the Google Play Store. Produced internal and external documentation for audiences of varying technical knowledge. Represented the company at professional events and when supporting customers."
+            }
+          ],
+          "technologies": [
+            "Java", "PostgreSQL", "Python", "Django", "JavaScript", "Android"
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "schools": [
+        {
+          "name": "McNeese State University",
+          "logo": "mcneese.png",
+          "location": "Lake Charles, LA",
+          "duration": "Aug. 2015 - Dec. 2019",
+          "degrees": [
+            "B.S. in Computer Science",
+            "B.S. in Mathematical Science"
+          ],
+          "related_coursework": [
+            "Data Structures and Algorithms",
+            "Databases",
+            "Computer Architecture & Organization",
+            "Artificial Intelligence",
+            "Structure of Programming Languages",
+            "Formal Language Theory",
+            "Software Engineering I & II",
+            "Several Courses in High Level Mathematics"
+          ],
+          "activities": [
+            "Represented MSU at the Southeast Regional International Collegiate Programming Contest (ICPC) from 2017 to 2019",
+            "National Member of the Association for Computing Machinery (ACM) from 2018 to 2020",
+            "Member of McNeese's ACM branch, and served as treasurer from 2018 to 2019",
+            "Member of the National Society for Leadership and Success (NSLS) since 2016"
+          ],
+          "technologies": [
+            "C", "Java", "Python", "MySQL"
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills/Languages",
+      "skills": [
+        {
+          "name": "C",
+          "duration": "3 years"
+        },
+        {
+          "name": "Java",
+          "duration": "3 years"
+        },
+        {
+          "name": "Python",
+          "duration": "3 years"
+        },
+        {
+          "name": "JavaScript",
+          "duration": "2 years"
+        },
+        {
+          "name": "Django",
+          "duration": "2 years"
+        },
+        {
+          "name": "Nodejs",
+          "duration": "1 year"
+        },
+        {
+          "name": "Express",
+          "duration": "1 year"
+        },
+        {
+          "name": "React",
+          "duration": "3 months"
+        },
+        {
+          "name": "AngularJS",
+          "duration": "3 months"
+        },
+        {
+          "name": "Android",
+          "duration": "2 years"
+        },
+        {
+          "name": "MySQL",
+          "duration": "1 year"
+        },
+        {
+          "name": "PostgreSQL",
+          "duration": "3 years"
+        },
+        {
+          "name": "AWS",
+          "duration": "1.5 years"
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "projects": [
+      {
+        "title": "Professional Website",
+        "image": "professional_website.png",
+        "description": "An interactive website to display related resume information and my portfolio of projects. This project served as my first full React project.",
+        "technologies": [
+          "React"
+        ],
+        "project_type": "personal",
+        "links": [
+          {
+            "title": "GitHub",
+            "link": "https://github.com/ajgalloway/portfolio"
+          }
+        ]
+      },
+      {
+        "title": "In-store Kiosk",
+        "image": "in_store_kiosk.png",
+        "description": "An unattended in-store kiosk for efficient ordering of products and running transactions initially developed for convenience store, but could be used in a variety of other industries. A related project to this is a panel, which displays incoming orders, and allows for flow/status manipulation. Developed for 360Fuel.",
+        "technologies": [
+          "Android",
+          "Java",
+          "Django",
+          "Python"
+        ],
+        "project_type": "experience",
+        "links": [
+        ]
+      },
+      {
+        "title": "Free Speech Messenger",
+        "image": "free_speech_messenger.jpg",
+        "description": "An instant messaging and VOIP calling mobile application. Developed for Android using Google's Firebase services and Sinch SDK for VOIP calling.",
+        "technologies": [
+          "Android",
+          "JavaScript"
+        ],
+        "project_type": "education",
+        "links": [
+          {
+            "title": "GitHub",
+            "link": "https://github.com/ajgalloway/free_speech_messenger"
+          }
+        ]
+      }
+    ]
+  }
+}
