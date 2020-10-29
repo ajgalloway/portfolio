@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0e81b23.chunk.css",
+    "main.js": "/static/js/main.36372c2e.chunk.js",
+    "main.js.map": "/static/js/main.36372c2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.eb491344.chunk.js": "/static/js/2.eb491344.chunk.js",
+    "static/js/2.eb491344.chunk.js.map": "/static/js/2.eb491344.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.81578cc78beb654700f667ad8f6ca2a5.js": "/precache-manifest.81578cc78beb654700f667ad8f6ca2a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.d0e81b23.chunk.css.map": "/static/css/main.d0e81b23.chunk.css.map",
+    "static/js/2.eb491344.chunk.js.LICENSE.txt": "/static/js/2.eb491344.chunk.js.LICENSE.txt",
+    "static/media/360fuel.png": "/static/media/360fuel.a255aaef.png",
+    "static/media/ag_logo_black.png": "/static/media/ag_logo_black.cebcdb3a.png",
+    "static/media/ag_logo_white.png": "/static/media/ag_logo_white.de3a399a.png",
+    "static/media/free_speech_messenger.jpg": "/static/media/free_speech_messenger.7efb722b.jpg",
+    "static/media/gophr.png": "/static/media/gophr.3e90170f.png",
+    "static/media/headshot.png": "/static/media/headshot.05fca361.png",
+    "static/media/in_store_kiosk.png": "/static/media/in_store_kiosk.a38e2fab.png",
+    "static/media/mcneese.png": "/static/media/mcneese.407ac8ec.png",
+    "static/media/professional_website.png": "/static/media/professional_website.32ce7ac9.png",
+    "static/media/resume.pdf": "/static/media/resume.0068e4da.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.eb491344.chunk.js",
+    "static/css/main.d0e81b23.chunk.css",
+    "static/js/main.36372c2e.chunk.js"
+  ]
+}
